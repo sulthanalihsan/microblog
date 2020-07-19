@@ -1,4 +1,4 @@
-# microblog_posting
+# Flutter Microblog
 
 A new Flutter application.
 
